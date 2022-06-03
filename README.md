@@ -17,5 +17,5 @@ Welcome to Graphics by Ekuspreet. This is a showcase of some of my **orignal** w
 
 
 ##### Connect with me on Instagram
-![Markdown Image](https://www.freepnglogos.com/pics/logo-ig-png)[Iglogo]
-[Iglogo]: https://www.instagram.com/ekus_preet/ "Connect with Ekuspreet on Instagram"
+[![Markdown Image](https://www.freepnglogos.com/pics/logo-ig-png)][ig-logo]
+[ig-logo]: https://www.instagram.com/ekus_preet/ "Connect with Ekuspreet on Instagram"
